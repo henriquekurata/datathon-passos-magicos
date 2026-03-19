@@ -60,11 +60,3 @@ if st.button("Prever risco educacional"):
         st.success(f"✅ Baixo risco de defasagem educacional\nProbabilidade: {prob:.2%}")
 
 
-        # Para rodar app: python -m streamlit run app.py
-
-# Texto para explicar o funcionamento do aplicativo A aplicação desenvolvida em Streamlit utiliza um modelo de Machine Learning treinado a partir dos dados educacionais dos alunos atendidos pela Associação Passos Mágicos. O modelo foi construído utilizando o algoritmo Random Forest, que identifica padrões entre diferentes indicadores educacionais para estimar o risco de defasagem acadêmica. No aplicativo, o usuário pode inserir os principais indicadores educacionais de um aluno, como desempenho acadêmico, nível de engajamento nas atividades, aspectos psicossociais, aspectos psicopedagógicos e o indicador de ponto de virada educacional. A partir desses valores, o modelo realiza uma previsão baseada nos padrões aprendidos durante o treinamento com os dados históricos. Internamente, o algoritmo analisa as combinações entre esses indicadores e calcula a probabilidade de o aluno apresentar risco de defasagem educacional. O resultado é apresentado ao usuário de forma simples, indicando se o aluno possui baixo ou alto risco e qual a probabilidade estimada dessa condição. Essa ferramenta pode auxiliar a equipe pedagógica na identificação precoce de alunos que podem precisar de maior acompanhamento educacional. Ao identificar sinais de risco antecipadamente, é possível direcionar intervenções pedagógicas mais rápidas e personalizadas, contribuindo para melhorar o desenvolvimento acadêmico dos estudantes. Dessa forma, a aplicação funciona como um sistema de apoio à decisão educacional, permitindo que os dados coletados ao longo do programa sejam utilizados de forma estratégica para apoiar o acompanhamento dos alunos e potencializar os resultados educacionais da iniciativa.
-
-# Versão curta (boa para o vídeo): A aplicação desenvolvida permite inserir indicadores educacionais de um aluno e, com base em um modelo de Machine Learning treinado com dados históricos, estimar a probabilidade de risco de defasagem educacional. Essa ferramenta pode auxiliar educadores a identificar alunos que necessitam de maior acompanhamento pedagógico, permitindo intervenções mais rápidas e baseadas em dados.
-
-
-

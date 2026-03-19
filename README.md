@@ -123,26 +123,8 @@ A aplicação permite:
 - Apoiar decisões pedagógicas baseadas em dados
 
 Link Streamlit: https://datathon-henrique-kurata.streamlit.app/
-Link Apresentação: https://drive.google.com/file/d/1u1GAnDJU1EXtlM1yDhGlm4f1blbTgRBS/view?usp=sharing
+
 
 ---
 
-app/
-    app.py
-
-data/
-    2022.xlsx
-    2023.xlsx
-    2024.xlsx
-
-model/
-    modelo_random_forest.pkl
-
-notebooks/
-    analise_datathon.ipynb
-
-presentation/
-    slides_datathon.pptx
-
-README.md
-requirements.txt
+Link Apresentação: https://drive.google.com/file/d/1u1GAnDJU1EXtlM1yDhGlm4f1blbTgRBS/view?usp=sharing

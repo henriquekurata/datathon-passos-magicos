@@ -122,10 +122,8 @@ A aplicação permite:
 - Calcular a probabilidade de risco de defasagem
 - Apoiar decisões pedagógicas baseadas em dados
 
-Para executar a aplicação:
+Acesse pelo link: https://datathon-henrique-kurata.streamlit.app/
 
-```bash
-streamlit run app/app.py
 
 ---
 

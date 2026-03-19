@@ -11,7 +11,7 @@ st.write("Modelo preditivo para identificar risco de defasagem educacional")
 # Carregar modelo treinado
 # -------------------------------------------------------------
 
-model = joblib.load("../model/modelo_random_forest.pkl")
+model = joblib.load("model/modelo_random_forest.pkl")
 
 # -------------------------------------------------------------
 # Entrada de dados do usuário

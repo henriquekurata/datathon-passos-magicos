@@ -1,6 +1,6 @@
 # Datathon - Passos Mágicos
 
-Projeto de **Data Analytics e Machine Learning** desenvolvido para o Datathon da Pós-Tech com o objetivo de analisar dados educacionais e prever risco de defasagem acadêmica em alunos atendidos pela **Associação Passos Mágicos**.
+Projeto de **Data Analytics e Machine Learning** desenvolvido para o Datathon da Pós-Tech com o objetivo de analisar dados educacionais e prever risco de defasagem acadêmica em alunos atendidos pela **Passos Mágicos**.
 
 ---
 
